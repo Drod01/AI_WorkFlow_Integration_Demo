@@ -1,0 +1,9 @@
+text,label
+"Please purchase $500 in gift cards and send the codes to resolve your account issue.","fraud"
+"Urgent: wire money to this account immediately to avoid penalties.","fraud"
+"Reset your password here: https://example.com/reset (official portal).","not_fraud"
+"Your ACH transfer of $125.00 has been scheduled for tomorrow.","not_fraud"
+"Claim your prize by sending us your bank account details.","fraud"
+"Deposit received: your paycheck has cleared.","not_fraud"
+"We detected unusual activity; please verify via the official app.","not_fraud"
+"Send crypto to this wallet to unlock your account.","fraud"

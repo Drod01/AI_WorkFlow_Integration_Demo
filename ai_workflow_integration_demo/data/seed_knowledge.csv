@@ -1,0 +1,6 @@
+id,text,tag
+faq,"ACH (Automated Clearing House) enables bank-to-bank transfers with low fees; same-day ACH has earlier cutoff times.",payments
+faq2,"Credit limit increases depend on payment history, utilization, and income; some banks allow soft-pull requests.",cards
+faq3,"Never share one-time passcodes, API keys, or passwords. Official reps will not ask for these.",security
+fraud,"Common fraud indicators: gift cards, urgent wire requests, crypto unlocks, or requests for routing/account numbers.",security
+limits,"Daily transfer limits vary by account and channel; verify limits in your account portal or by contacting support.",payments
