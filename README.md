@@ -1,4 +1,4 @@
-# AI Workflow Integration Demo (Engineer I – AI)
+# AI Workflow Integration Demo
 
 Project Description:
 - Build and support **AI/ML components**
